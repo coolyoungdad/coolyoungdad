@@ -4,7 +4,7 @@ Welcome to my Github where you'll find a variety of projects ranging from a full
 
 I'm self-taught amateur software developer hoping to go pro soon :) 
 
-Some technologies I enjoy working with include ReactJS, three.js, and Sqlite. 
+Some technologies I enjoy working with include ReactJS, three.js, and SQLite. 
 
 ## Upcoming Roadmap
 
