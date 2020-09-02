@@ -1,10 +1,10 @@
 # Alexander's Github 🖥⌨️
 
-Welcome to my Github where you'll find a variety of projects ranging from a full-stack web app [(Futreviews)](www.fut.reviews) to three.js learnings [(like this donut)](http://ab-donut.superhi.com/) to a bot that buys Supreme [(use at your own risk 😅)](https://github.com/coolyoungdad/preme-bot).
+Welcome to my Github where you'll find a variety of projects ranging from a full-stack web app [(Futreviews)](https://www.fut.reviews) to three.js learnings [(like this donut)](http://ab-donut.superhi.com/) to a bot that buys Supreme [(use at your own risk 😅)](https://github.com/coolyoungdad/preme-bot).
 
 I'm self-taught software developer hoping to go pro soon.
 
-Some technologies I enjoy working with include ReactJS, Node.js, and PostgreSQL. 
+Some technologies I enjoy working with include React, Node, and PostgreSQL. 
 
 ## Upcoming Roadmap
 
