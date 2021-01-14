@@ -16,6 +16,6 @@ Some technologies I enjoy working with include React, Node, and PostgreSQL.
 
 - Website: [bercow.biz](bercow.biz) 🌐
 - Email: [alexander@bercow](mailto:alexander@bercow.com) 📧
-- IG: [@coolyoungdad](https://www.instagram.com/coolyoungdad/) 📸
+- Medium: [Alexander Bercow](https://alexanderbercow.medium.com/) 📸
 
 ###### Want to talk about music? I still work in Ableton regularly and am learning Orca-C / TidalCycles / SuperCollider. Shoot me an email! 
